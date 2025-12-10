@@ -24,3 +24,25 @@
     text-decoration: none;
     font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
 }
+
+
+p {
+    color: #555;
+    font-size: 18px;
+}
+
+
+img {
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+body {
+    background-color: tan;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+    margin: 0;
+    padding: 40px;
+}
+
