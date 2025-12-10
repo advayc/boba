@@ -1,6 +1,7 @@
 .top-nav {
     text-align: right;
     margin-bottom: 2rem;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
 }
 
 .nav-links {
@@ -9,14 +10,17 @@
     display: flex;
     gap: 1.5rem;
     justify-content: flex-end;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
 }
 
 .nav-link {
     color: #2563eb;
     text-decoration: underline;
     font-weight: normal;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
 }
 
 .nav-link:hover {
     text-decoration: none;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
 }
